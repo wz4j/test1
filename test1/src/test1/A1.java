@@ -6,5 +6,6 @@ public class A1 {
 		///////uopdate22
 		//asdfdsfsfsfsfsfsfs
 		//2333
+		System.out.println(22222);
 	}
 }
